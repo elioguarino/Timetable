@@ -1,2 +1,2 @@
 ts is my timetable app
-thats abt it
+thats about it
